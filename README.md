@@ -2,8 +2,6 @@
 
 Vaccination against COVID-19 proved to be effective in reducing the number of infected people and hospitalizations, but it is important that the population continues to vaccinate with booster doses. According to G1 (2022) the booster dose was applied to 56.25% of the population aged 12 years or older, the age group that can currently receive the booster vaccination. (Vaccination against Covid: more than 101 million Brazilians took the booster dose.
 
-Available at: https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/08/02/vacinacao-contra-a-covid-mais-de-101-milhoes-de-brasileiros-tomaram-a -dose-de-reforco.ghtml Accessed on: 05/08/2022)
-
 With that in mind, develop a vaccination control system using the JAVA language, following the following requirements:
 
 1 - When entering the system, the user must inform the CPF and the name of the nurse administering the vaccine.
@@ -20,7 +18,6 @@ With that in mind, develop a vaccination control system using the JAVA language,
 
 A vacinação contra a COVID-19 se mostrou eficaz para diminuir o número de infectados e casos de internações, porém é importante que a população continue vacinando com as doses de reforço. Segundo G1 (2022) A dose de reforço foi aplicada em 56,25% da população com 12 anos de idade ou mais, faixa de idade que atualmente pode receber o reforço da vacinação. (Vacinação contra a Covid: mais de 101 milhões de brasileiros tomaram a dose de reforço.
 
-Disponível em: https://g1.globo.com/saude/coronavirus/vacinas/noticia/2022/08/02/vacinacao-contra-a-covid-mais-de-101-milhoes-de-brasileiros-tomaram-a-dose-de-reforco.ghtml Acesso em: 05/08/2022)
 
 Pensando nisso desenvolva um sistema de controle de vacinação utilizando a linguagem JAVA seguindo os seguintes requisitos:
 
